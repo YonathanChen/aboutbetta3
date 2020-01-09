@@ -1,0 +1,46 @@
+[
+    {
+        "Jenis": "Plakat",
+        "Nama": "Blue Rim",
+        "Ciri": "Sirip Belakang Memiliki Degradasi Warna Biru",
+        "Pakan": "Jentik Nyamuk, Cacing, Pelet",
+        "KisaranHarga": "100.000 s/d 500.000"  
+    },
+    {
+        "Jenis": "Plakat",
+        "Nama": "Nemo Galaxy",
+        "Ciri": "Warna Beragam kemudian Memiliki bintik berkilau",
+        "Pakan": "Jentik Nyamuk, Cacing, Pelet",
+        "KisaranHarga": "100.000 s/d 500.000"  
+    },
+    {
+        "Jenis": "Plakat",
+        "Nama": "Black Samurai",
+        "Ciri": "Warna Dominan Hitam, namun ada warna putih tajam yang menggambarkan seperti pedang.",
+        "Pakan": "Jentik Nyamuk, Cacing, Pelet",
+        "KisaranHarga": "50.000 s/d 150.000"  
+    },
+    {
+        "Jenis": "Plakat",
+        "Nama": "Super Red",
+        "Ciri": "Warna Keseluruhan Merah, dari Badan, dan juga sirip",
+        "Pakan": "Jentik Nyamuk, Cacing, Pelet",
+        "KisaranHarga": "50.000 s/d 200.000"  
+    },
+    {
+    "Jenis": "Plakat",
+    "Nama": "White Scale",
+    "Ciri": "Berwarna Dasar Putih, Namun Diselingi Dengan Warna Warna Lain",
+    "Pakan": "Jentik Nyamuk, Cacing, Pelet",
+    "KisaranHarga": "75.000 s/d 300.000"  
+    },
+    {
+        "Jenis": "Crown Tail",
+        "Nama": "Nemo Crown Tail",
+        "Ciri": "Sama Seperti Jenis Nemo Pada Umumnya, memiliki 3 warna kuning merah dan orange, namun ekornya seperti Crown",
+        "Pakan": "Jentik Nyamuk, Cacing, Pelet",
+        "KisaranHarga": "75.000 s/d 300.000"  
+    }
+
+    
+]
